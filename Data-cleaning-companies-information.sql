@@ -1,7 +1,5 @@
-USE CursoSQL
-GO
 
-/****** Script for SelectTopNRows command from SSMS  ******/
+--Creación de la vista con datos limpios
 CREATE VIEW GABP.vwTarea5 AS
 (
 SELECT
